@@ -1,6 +1,7 @@
 # Portend
 
 ### We predict, you benefit.
+ Predicting RUL of EV batteries using AI and ML algorithms.
 
 ## Let's Hack 4.0
 
