@@ -1,5 +1,6 @@
 # Portend
 
+### We predict, you benefit.
 
 ## Let's Hack 4.0
 
