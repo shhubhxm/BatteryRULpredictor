@@ -76,7 +76,7 @@ h3 {
   text-transform: uppercase;
   font-size: 35px;
   font-family: "Poppins-Medium";
-  color: #3e91f7;
+  color: #B87E4D;
   letter-spacing: 3px;
   margin-bottom: 22px;
   font-weight: 500; }
@@ -164,7 +164,7 @@ button {
   align-items: center;
   justify-content: center;
   padding: 0;
-  background: #3e91f7;
+  background: #B87E4D;
   color: #fff;
   text-transform: uppercase;
   font-family: "Muli-SemiBold";
@@ -193,7 +193,7 @@ button {
     -o-transition: all 0.3s;
     transition: all 0.3s; }
   button:hover {
-    background: #0072fd; }
+    background: #AC7A4B; }
     button:hover span {
       opacity: 0;
       -webkit-transform: translate(0px, 40px);
